@@ -4,7 +4,6 @@
 <p align="center">
 I'm an IT Engineer Student at University Badji Mokhtar - Annaba.<br>
 (fr:Ingénieur informatique)<br>
-I'm currently working on a website for Uni project<br>
 I'm currently learning C/C++, Java, WebDev...<br>
 I'm also into AI and Math...<br>
 </p>
@@ -22,9 +21,6 @@ I'm also into AI and Math...<br>
 <img style="width:56px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />&emsp;
 <img style="width:56px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />&emsp;
 <img style="width:56px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />&emsp;
-<img style="width:56px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&emsp;
-<img style="width:56px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&emsp;
-<img style="width:56px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&emsp;
 </p>
 
 ---
